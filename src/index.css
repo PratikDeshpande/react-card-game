@@ -1,0 +1,16 @@
+body {
+  background-image: linear-gradient(180deg,#00a0ee,#386aff 50%);
+  background-color: #386aff;
+  background-repeat-y: no-repeat;
+}
+
+.game {
+  display: flex;
+  flex-direction: row;
+}
+
+.board-row {
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 20" style="enable-background:new 0 0 50 20;" xml:space="preserve" >
+	<style type="text/css">
+		.bg {fill:#FFFFFF;}
+		.gr-arrow {fill:#CA2F35;}
+	</style>
+	<rect class="bg" width="50" height="20"/>
+	<polygon class="gr-arrow" points="14.5,0 14.5,11.9 9.3,11.9 25.1,20 25.3,20 40.7,11.9 35.9,11.9 35.9,0 "/>
+</svg>
